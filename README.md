@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|----------mailto:----------             
-| [Thabang Daniel Mmakola](https://github.com/Jana-Liebenberg)                                | thabanvdanny@gmail.com
+| [Thabang Daniel Mmakola](https://github.com/ThabangMmakola)                                | thabanvdanny@gmail.com
 
 
 #### Additional Resources to create a README file:
