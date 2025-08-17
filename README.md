@@ -91,11 +91,8 @@ pip install -r requirements.txt
 ## 5. Team Members<a class="anchor" id="team-members"></a>
 
 | Name                                                                                        |  Email              
-|---------------------------------------------------------------------------------------------|--------------------             
-| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
-| [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
-| [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
-
+|---------------------------------------------------------------------------------------------|----------mailto:----------             
+| [Thabang Daniel Mmakola](https://github.com/Jana-Liebenberg)                                | thabanvdanny@gmail.com
 
 
 #### Additional Resources to create a README file:
